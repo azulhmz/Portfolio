@@ -1,0 +1,18 @@
+*{
+    font-family: Helvetica;
+}
+
+input#btn{
+    padding: 5px 50px;
+    color: #fff;
+    font-size: 1em;
+    background-color:#017bab;
+    border:0px;
+    -webkit-border-radius:5px;
+    -webkit-box-shadow: 0px 4px 0px #0150ab;
+}
+
+input#btn:hover{
+    background-color: #FFF;
+    color: #017bab;
+}
